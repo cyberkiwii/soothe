@@ -1,0 +1,60 @@
+
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:#C5DBC9;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+}
+
+
+h2 {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+}
+
+
+h3 {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+}
+
+
+h4 {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+}
+
+
+p {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+}
+
+
+/*picture styling*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.smaller-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* TODO: add the sizing for the smaller logo (will not be in the middle of the page) */
