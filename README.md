@@ -8,6 +8,8 @@ Our Website: ADD
 
 ADD A SUMMARY OF WHAT SOOTHE IS.
 
+BRYCE
+
 Soothe was built primarily using HTML, CSS, and JavaScript. 
 
 
@@ -28,6 +30,7 @@ ADD A LINK MAYBE OF OUR PITCH / SLIDESHOW
 Created by Gracie Gallegos (@cyberkiwii), Alaa Eltahir, Bryce Burgess, and Danny Svoboda
 
 ABOUT WORKING TOGETHER
+GRACIE
 
 
 # Use of our website
@@ -36,11 +39,13 @@ ABOUT WORKING TOGETHER
 
 - ADD FEATURES AND INFO
 
+BRYCE
+
 
 # Future of Soothe
 
 In the future, we would like to refine and add features to our website. If you have any ideas, please feel free to contact us! 
 
-
+ALAA
 
 
