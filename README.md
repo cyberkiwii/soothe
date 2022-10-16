@@ -45,9 +45,8 @@ BRYCE
 # Future of Soothe
 
 In the future, we would like to refine and add features to our website. If you have any ideas, please feel free to contact us! 
-The Future of the Website (idea)
-Have an app version 
-More designs and features
-Add you own tool kit 
-Users take a survey that tell them how they feel 
+- Have an app version 
+- More designs and features
+- Add you own tool kit 
+- Users take a survey that tell them how they feel 
 
