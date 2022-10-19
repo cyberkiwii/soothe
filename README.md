@@ -5,7 +5,7 @@
 
 # Soothe
 
-## Our Website: 
+Our Website: 
 
 ADD A SUMMARY OF WHAT SOOTHE IS.
 
