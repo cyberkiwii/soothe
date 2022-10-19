@@ -3,8 +3,6 @@
 html, body {
   height: 100%;
   width: 100%;
-  background-color:#C5DBC9;
-  text-align: center;
 }
 
 h1 {
@@ -36,6 +34,12 @@ p {
   text-align: center;
 }
 
+/*
+.wrapper {
+  cursor: url('catcursor.png');
+}
+*/
+/* TODO: work on adding custom cursor for main pages when hovor */
 
 /*picture styling*/
 
@@ -49,6 +53,7 @@ p {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 .smaller-logo {
@@ -58,3 +63,46 @@ p {
 }
 
 /* TODO: add the sizing for the smaller logo (will not be in the middle of the page) */
+
+
+
+/*PAGE CONTENT STYLES -SHORTER PAGES*/
+
+.content-area-simple {
+
+	width: 100%;
+	background:  #C5DBC9;
+	height: 1100px;
+}
+
+
+/* BUTTON STYLES *
+
+button {
+ border: 15px solid black;
+ color:#C5DBC9;
+ background-color: #C5DBC9;
+  padding: 14px 28px;
+
+}
+
+button img:hover {
+ border: 20px;
+ cursor:
+}
+
+.img-btn {
+  border:0px;
+}
+
+.img-btn:hover {
+  border: 2px solid black;
+}
+
+.footer {
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+    text-align: right;
+    vertical-align: bottom;
+}
+
