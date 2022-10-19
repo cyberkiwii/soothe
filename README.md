@@ -2,13 +2,10 @@
    <img src="logo.png"/>
 </p>
 
-<hr>
-
-Our Website: ADD
-
-<hr>
 
 # Soothe
+
+## Our Website: 
 
 ADD A SUMMARY OF WHAT SOOTHE IS.
 
@@ -42,7 +39,7 @@ Our team works very well together dispite dispite the different challenges that 
 
 (See the 'ABOUT' page of our website to learn more about the team members and to contact us.)
 
-<hr>
+
 
 # The Research
 
@@ -58,7 +55,7 @@ One of the things we did to collect data for this project was to ask our externs
 
 Our survey had 16 annonymous responses. For more information feel free to look at some of our data: https://docs.google.com/document/d/1XKWKShgVBF46UtvAIKMrddTW6A6TS9WJwhH5y2y4XWw/edit?usp=sharing
 
-<hr>
+
 
 # Features
 
@@ -78,7 +75,7 @@ From there users can choose between 5 tools to hopefully help them cope:
 
 For now, we kept the tools generic, but we would like to better customize these to the specific emotions in the future (see 'Future of Soothe')
   
-<hr>
+
 
 # Future of Soothe
 
