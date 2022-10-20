@@ -11,7 +11,7 @@ ADD A SUMMARY OF WHAT SOOTHE IS.
 
 BRYCE
 
-Soothe was built primarily using HTML and CSS.
+Soothe was built primarily using HTML and CSS, and was programmed on Replit.
 
 
 ## History
