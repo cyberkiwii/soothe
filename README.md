@@ -5,7 +5,7 @@
 
 # Soothe
 
-Our Website: 
+Our Website: https://cyberkiwii.github.io/soothe/
 
 ADD A SUMMARY OF WHAT SOOTHE IS.
 
