@@ -9,6 +9,8 @@ Our Website: https://cyberkiwii.github.io/soothe/
 
 Soothe: A collaborative project meant to give users a simple, free, and intuitive experience treating different emotions on their own accord. We want to provide a wide range of tools to connect with each type of feeling and emotion portrayed on site. Not here to replace therapy and emergency situations; it is meant to be used as a more mild solution to a broad range of feelings. We want to keep this free and open source; with the option eventually to allow users to create/add plugins and extensions.
 
+NOT TO REPLACE PROFESSIONAL HELP / EMERGENCIES
+
 Soothe was built primarily using HTML and CSS, and was programmed on Replit.
 
 
