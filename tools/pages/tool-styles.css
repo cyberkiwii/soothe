@@ -1,0 +1,133 @@
+
+
+html, body {
+  height: 100%;
+  width: 100%;
+  cursor: url('../../catcursor.png'), auto;
+}
+
+h1 {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+}
+
+
+h2 {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+}
+
+
+h3 {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+}
+
+
+h4 {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+}
+
+
+p {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+}
+
+/*
+.wrapper {
+  cursor: url('catcursor.png');
+}
+*/
+/* TODO: work on adding custom cursor for main pages when hovor */
+
+/*picture styling*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.smaller-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* TODO: add the sizing for the smaller logo (will not be in the middle of the page) */
+
+
+
+/*PAGE CONTENT STYLES -SHORTER PAGES*/
+
+.content-area-simple {
+	width: 100%;
+	height: 1100px;
+}
+
+
+
+
+.footer {
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+    text-align: right;
+    vertical-align: bottom;
+}
+
+a:link {
+  color:  black;
+  text-decoration: none;
+}
+
+a:link img {
+  color:  #C5DBC9;
+  text-decoration: none;
+}
+
+
+a:hover {
+  color: black;
+  text-decoration: none;
+  cursor: url('../../catcursor.png'), auto;
+}
+
+a:hover img{
+  color: black;
+  text-decoration: none;
+  cursor: url('../../catcursor.png'), auto;
+}
+
+a:active {
+  color: black;
+  text-decoration: underline;
+}
+
+a:visited img{
+  color: #C5DBC9;
+  text-decoration: none;
+}
+
+a:visited:hover img{
+  color: black;
+  text-decoration: none;
+}
+
+li {
+  font-family: 'Nunito', sans-serif;
+  text-align: left;
+  padding-left: 31.5%;
+}
+
+ul {
+  list-style-type: circle;
+}
