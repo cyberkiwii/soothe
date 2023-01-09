@@ -185,3 +185,24 @@ a:visited:hover img{
   text-decoration: none;
 }
 
+.callout {
+  position:fixed;
+  bottom: 35px;
+  right: 20px;
+  margin-left: 20px;
+  max-width: 300px;
+}
+
+.callout-header {
+  padding: 10px;
+  background-color: #ccc;
+  color: black;
+}
+
+.closebtn {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  font-size: 30px;
+  cursor: url('catcursor.png'), auto;
+}
