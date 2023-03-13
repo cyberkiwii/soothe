@@ -35,7 +35,7 @@ Created by Gracie Gallegos, Alaa Eltahir, Bryce Burgess, and Danny Svoboda.
 
 For the group project, after brainstorming ideas we decided we want to combine mental health and technology. The idea came about to create a app or website as a central place for people to acess mental health and emotional coping tools for free. Our project is still in the beginning stages, as most of our members do not know how to program. Gracie has previously worked on projects creating websites, and suggested that we start with a website. 
 
-Our team works very well together dispite dispite the different challenges that might come up. Danny and Alaa did the majority of the research, while Danny designed most of the icons and sketches, and Gracie programmed the site.
+Our team works very well together dispite dispite the different challenges that might come up. Bryce and Alaa did the majority of the research, while Danny designed most of the icons and sketches, and Gracie programmed the site.
 
 (See the 'ABOUT' page of our website to learn more about the team members and to contact us.)
 
